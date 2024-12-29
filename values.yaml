@@ -1,0 +1,5 @@
+replicaCount: 2
+
+image:
+  repository: "zcha1307"
+  tag: "1.2.4"
